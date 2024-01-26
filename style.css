@@ -1,0 +1,26 @@
+.span
+{
+ background-color: orange;
+ color:black;
+}
+body{
+    text-align:center;
+}
+section{
+    text-align:left;
+    display:inline-block;
+}
+.copy_right_footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+canvas{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
